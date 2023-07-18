@@ -1,0 +1,10 @@
+[directory]
+server = 'C:\Users\coolk\Desktop\data\data'
+client = 'C:\Users\coolk\Desktop\data\v0.1\datafile64.bin.files.edit'
+tran = 'C:\Users\coolk\Desktop\data\v0.1\localfile64.bin.files.edit'
+
+[pc]
+res_code = "a07b72777a6f24c737e4b8cbb52b354c"
+
+[theme]
+dark_mode = "false"
